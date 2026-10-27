@@ -16,8 +16,8 @@ PlayOnTable was developed using the following GPL/DSL languages:
 
 Python backend `requirements.txt` file contains 2 dependencies:
 
-- [FastAPI](https://fastapi.tiangolo.com/) (for WebSocket connections)
 - [Uvicorn](https://uvicorn.dev/) (as ASGI web server)
+- [FastAPI](https://fastapi.tiangolo.com/) (for WebSocket connections)
 
 Frontend depends on 1 JavaScript library delivered from [jsDelivr](https://www.jsdelivr.com/) CDN:
 
