@@ -1,7 +1,3 @@
-# [PlayOnTable.com](https://playontable.com/)
-
-### Let's play any game on a virtual realtime multiplayer table with PlayOnTable.com
-
 ## Codebase
 
 PlayOnTable was developed using the following GPL/DSL languages:
